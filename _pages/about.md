@@ -8,6 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+The website is still under development. You can also visit my [University Webpage](https://portal.research.lu.se/en/persons/xuesong-cai) for more information such as Publications and Projects. 
+
+
 I am a tenure-track Assistant Professor of wireless communication in the Department of Electrical and Information Technology, Lund University, Lund, Sweden. My research interests include 
 - Radio propagation 
 - High-resolution parameter estimation
@@ -24,7 +27,6 @@ I received my B.S. degree and Ph.D. degree (Hons.) from Tongji University, Shang
 I was a recipient of the China National Scholarship (the highest honor for Ph.D. Candidates) in 2016, the Outstanding Doctorate Graduate awarded by the Shanghai Municipal Education Commission in 2018, the Marie Skłodowska-Curie Actions (MSCA) "Seal of Excellence" in 2019, the MSCA Postdoctoral Fellowship (success rate 14%) founded by the EU and the Starting Grant (success rate 12%) funded by the Swedish Research Council in 2022. I was also selected by the "ZTE Blue Sword-Future Leaders Plan" in 2018 and the "Huawei Genius Youth Program" in 2021. 
 
 
-The website is still under development. You can also visit my [University Webpage](https://portal.research.lu.se/en/persons/xuesong-cai) for Publications and Projects. 
 
 
 <!-- 
