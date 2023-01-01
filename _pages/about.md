@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "More information will come soon. You can visit my [University Webpage](https://portal.research.lu.se/en/persons/xuesong-cai)."
+#title: "More information will come soon. You can visit my [University Webpage](https://portal.research.lu.se/en/persons/xuesong-cai)."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,11 +8,25 @@ redirect_from:
   - /about.html
 ---
 
-Xuesong Cai received the B.S. degree and the Ph.D. degree (Hons.) from Tongji University, China in 2013 and 2018, respectively. In 2015, he conducted a three-month internship with Huawei Technologies, China. He was also a Visiting Scholar with Universidad Politècnica de Madrid, Spain in 2016. From 2018-2022, he conducted several postdoctoral stays at Aalborg University, Denmark, Nokia Bell Labs, Denmark, and Lund University, Sweden. Since December 2022, he has been an Assistant Professor (tenure track) of wireless communication in the Department of Electrical and Information Technology, Lund University. His research interests include radio channel sounding, high-resolution parameter estimation, channel characterization and modeling, over-the-air testing, and resource allocation/optimization for 5G and beyond wireless communications.
+I am a tenure-track Assistant Professor of wireless communication in the Department of Electrical and Information Technology, Lund University, Lund, Sweden. My research interests include 
+- Radio propagation 
+- High-resolution parameter estimation
+- Channel characterization and modeling
+- Over-the-air channel emulation
+- Optimization
+- Radio-based localization 
 
-Dr. Cai was a recipient of the China National Scholarship (the highest honor for Ph.D. Candidates) and the Excellent Student in 2016, the Excellent Student and the "ZTE Fantastic Algorithm" award in 2017, the Outstanding Doctorate Graduate awarded by the Shanghai Municipal Education Commission in 2018, the Marie Skłodowska-Curie Actions (MSCA) "Seal of Excellence" in 2019, the MSCA Postdoctoral Fellowship (success rate 14%) founded by EU and the Starting Grant (success rate 12%) funded by the Swedish Research Council in 2022. He was also selected by the "ZTE Blue Sword-Future Leaders Plan" in 2018 and the "Huawei Genius Youth Program" in 2021. 
+for 5G and beyond wireless communications. Currently, I mainly focus on the millimeter-wave (mmWave) and terahertz (THz) channels and related applications. 
+
+I received my B.S. degree and Ph.D. degree (Hons.) from Tongji University, Shanghai, China in 2013 and 2018, respectively. In 2015, I conducted a three-month internship with Huawei Technologies, China. I was also a Visiting Scholar with Universidad Politècnica de Madrid, Spain in 2016. From 2018-2022, I conducted several postdoctoral stays at Aalborg University, Denmark, Nokia Bell Labs, Denmark, and Lund University, Sweden. 
 
 
+I was a recipient of the China National Scholarship (the highest honor for Ph.D. Candidates) in 2016, the Outstanding Doctorate Graduate awarded by the Shanghai Municipal Education Commission in 2018, the Marie Skłodowska-Curie Actions (MSCA) "Seal of Excellence" in 2019, the MSCA Postdoctoral Fellowship (success rate 14%) founded by the EU and the Starting Grant (success rate 12%) funded by the Swedish Research Council in 2022. I was also selected by the "ZTE Blue Sword-Future Leaders Plan" in 2018 and the "Huawei Genius Youth Program" in 2021. 
+
+
+The website is still under development. You can also visit my [University Webpage](https://portal.research.lu.se/en/persons/xuesong-cai).
+
+<!-- 
 academicpages is a ready-to-fork GitHub Pages template for academic personal websites
 ======
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
@@ -54,4 +68,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
